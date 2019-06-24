@@ -1,5 +1,4 @@
 # readables
---
 This repository is designed to hold papers members of the lab might be interested in reading. One can also use this repository to find papers for greenelab's journal club.
 
 ## Add a Paper
