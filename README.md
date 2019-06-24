@@ -2,7 +2,7 @@
 This repository is designed to hold papers members of the lab might be interested in reading. One can also use this repository to find papers for greenelab's journal club.
 
 ## Add a Paper
-To add a paper please open a new github issue with the title of the paper as the title fo the issue. Attach a label called paper to the issue. Lastly, for the body of the issue please use the provided template:
+To add a paper please open a new github issue with the title of the paper as the title of the issue. Attach a label called paper to the issue. Lastly, for the body of the issue please use the provided template:
 
 > Abstract: \<abstract body here\>
 >
